@@ -1,8 +1,9 @@
 import React from 'react';
-import HotelMenu from './components/basics/HotelMenu';
+// import HotelMenu from './components/basics/HotelMenu';
+import UseState from './components/Hooks/useState';
 const App = () => {
   return (
-    <HotelMenu/>
+    <UseState/>
   )
 }
 
