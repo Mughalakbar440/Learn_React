@@ -4,7 +4,6 @@ import "./style.css";
 const UseState = () => {
   const initialData = 10;
   const [myNum,setmyNum] = React.useState(initialData);
-console.log(myNum);
 
 
   return (
