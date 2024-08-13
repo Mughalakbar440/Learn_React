@@ -4,10 +4,11 @@ import React from 'react';
 
 // import UseEffect from './components/Hooks/useEffect';
 // import UseReducer from './components/Hooks/useReducer';
-import Todo from './components/todo_react/todo';
+import Temp from './components/weather/temp';
+// import Todo from './components/todo_react/todo';
 const App = () => {
   return (
-    <Todo/>
+    <Temp/>
   )
 }
 
